@@ -1,0 +1,14 @@
+spaf_version:1.0
+level:1
+release:1.2
+name:dbSC
+authors:220
+category:coding tools
+tags:MySQL,PHP,dotweb
+brief:PHP object for direct MySQL access
+description:a PHP class that simplifies connecting to a MySQL database by wrapping communication into a single package. By calling query () method, the object fills out with the results, which you can use to easily extract into your app. Supports both encrypted and unsecure password management.
+release_date:2005
+requirements:MySQL,PHP,server accounts
+platform:PHP
+devtools:Linux box,PHP
+sources-url:https://www.github.com/2-2-0/dbSC
